@@ -1,0 +1,21 @@
+{
+  "name": "week03_lec_http",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "server",
+    "http",
+    "get",
+    "post",
+    "week03",
+    "gbc"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
